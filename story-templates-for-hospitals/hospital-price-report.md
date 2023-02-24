@@ -1,0 +1,3 @@
+{hospital} has the highest price of {amount} for the {procedure} compared to the {number of} hospitals within {x} miles. This price is {XXX} higher from the median of {xx}. This procedure has been performed {xx} times in the last year. The average income of the local area is {xx}. This hospital has received a {xx} rating from source.
+
+{hospital has the lowest price of {amount} for the {procedure} compared to the {number of} hospitals within {x} miles. This price is {xx} lower from the median of {xx}. This procedure has been performed {xx} times in the last year. The average income of the local area is {xx}.  This hospital has received a {xx} rating from source.
